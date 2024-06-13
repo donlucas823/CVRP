@@ -1,0 +1,68 @@
+# 忽略 Visual Studio 文件夹
+.vs/
+
+# 其他忽略的文件和文件夹
+*.vcxproj.user
+*.suo
+*.user
+*.ipch
+*.log
+*.obj
+*.pch
+*.exe
+*.ilk
+*.meta
+*.pdb
+*.idb
+*.class
+*.vscode
+*.dir
+*.o
+*.bin
+*.elf
+*.list
+*.tlog
+*.log
+*.vcxproj.filters
+
+# 生成的二进制文件
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# 用户特定文件
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# SVN directory
+.svn/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
